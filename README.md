@@ -28,5 +28,4 @@ My name is Davi Maciel, I'm 15 years old and most of the time I spend developing
   
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DaviMacielFeliciano&theme=tokyonight&fire=DD6400&ring=DD6400&currStreakNum=DD985F&stroke=484848)](https://git.io/streak-stats)
 [![Davi stats](https://github-readme-stats.vercel.app/api?username=DaviMacielFeliciano&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/DaviMacielFeliciano/)
