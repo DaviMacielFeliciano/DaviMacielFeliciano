@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-# Welcome to my github 👋
+### Welcome to my github 👋
 My name is Davi Maciel, I'm 15 years old and most of the time I spend developing in Java and Kotlin I'm still learning Android. Below you can find the areas I work and/or study
 
 ### :clipboard: Technologies:
