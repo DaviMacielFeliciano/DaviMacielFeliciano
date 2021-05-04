@@ -1,7 +1,19 @@
-# Welcome to my github 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-Meu nome é **Davi** e eu programo em java e kotlin <br>
-Atualmente estudando programação Android principalmente 😄
+# Welcome to my github 👋
+My name is Davi Maciel, I'm 15 years old and most of the time I spend developing in Java and Kotlin I'm still learning Android. Below you can find the areas I work and/or study
+
+### :clipboard: Technologies:
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  
+### 🚀 IDE's
+
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
+  ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple)
+  ![Android Studio](https://img.shields.io/badge/AndroidStudio-FFFFFF?style=for-the-badge&logo=android-idea&logoColor=blue)
 
 <br/>
 
