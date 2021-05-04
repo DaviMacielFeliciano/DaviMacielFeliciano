@@ -6,7 +6,9 @@ My name is Davi Maciel, I'm 15 years old and most of the time I spend developing
 ### :clipboard: Technologies:
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android-idea&logoColor=blue)
 
 ### 🚀 IDE's
 
