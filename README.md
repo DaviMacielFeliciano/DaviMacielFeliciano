@@ -19,6 +19,6 @@ My name is Davi Maciel, I'm 15 years old and most of the time I spend developing
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:davimacielfeliciano12@gmail.com?subject=Hello")
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DaviMacielF)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henryfabio&layout=compact&theme=dracula&hide_title=true&langs_count=10)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMacielFeliciano&layout=compact&theme=dracula&hide_title=true&langs_count=10)
 
 [![Davi stats](https://github-readme-stats.vercel.app/api?username=DaviMacielFeliciano&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/DaviMacielFeliciano/)
