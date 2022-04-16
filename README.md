@@ -15,7 +15,7 @@ My name is Davi Maciel, I'm 17 years old and most of the time I spend developing
 ### 🚀 IDE's
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
-  ![Visual Studio](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>)
+  ![Visual Studio]((https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=vscode-idea&logoColor=blue))
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/701209235865862145)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:davimacielfeliciano12@gmail.com?subject=Hello")
